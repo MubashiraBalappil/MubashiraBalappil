@@ -11,12 +11,12 @@
 - Python, Flask
 - Linux, Shell scripting
 
-## 🌟 Featured Projects
+## 🌟 Projects
 🔹 [TicketRush 🎫](https://github.com/Mubashira-A/TicketRush)  
 A cloud-hosted concert ticket booking system built using Azure, Docker, and Kubernetes with CI/CD pipelines.  
 *Role: DevOps Engineer – deployed on AKS, managed infrastructure with Bicep.*
 
-🔹 [Mini Project](https://github.com/Mubashira-A/Flask-Portfolio-App)  
+🔹 [Flask Portfolio](https://github.com/Mubashira-A/Flask-Portfolio-App)  
 A portfolio site with login, comments, and GitHub integration using Flask.
 
 ## 📫 Contact Me
