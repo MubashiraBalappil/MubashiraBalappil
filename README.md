@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mubashira 👋
 
-<!--
-**MubaSajid/MubaSajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud & DevOps Engineer  
+🎯 Currently working on projects using Azure, Docker, Kubernetes, and CI/CD  
+📘 Graduate of a Cloud Support & DevOps certification program  
+🌱 I’m learning more about automation and infrastructure as code every day
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Azure, AKS, Bicep
+- Docker, GitHub Actions
+- Python, Flask
+- Linux, Shell scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+🔹 [TicketRush 🎫](https://github.com/Mubashira-A/TicketRush)  
+A cloud-hosted concert ticket booking system built using Azure, Docker, and Kubernetes with CI/CD pipelines.  
+*Role: DevOps Engineer – deployed on AKS, managed infrastructure with Bicep.*
+
+🔹 [Mini Project A](https://github.com/Mubashira-A/Flask-Portfolio-App)  
+A portfolio site with login, comments, and GitHub integration using Flask.
+
+## 📫 Contact Me
+📧 Email: mubashirasajid@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/mubashira-balappil-7a65a235b/
