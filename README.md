@@ -25,7 +25,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 ### 🎫 [TicketMakers: Cloud-Hosted Concert Ticketing System](https://mubashirabalappil.github.io/TicketMakers/)
 
