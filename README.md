@@ -25,16 +25,24 @@ A cloud-hosted concert ticket booking system built using Azure, Docker, and Kube
 Tools & Technologies: Azure, AKS, Azure Storage, DevOps pipelines, CI/CD, Terraform, YAML, Git
 
 
-**🔹 [Flask Portfolio](https://mubashira.pythonanywhere.com/)**
-A portfolio site with login, comments, and GitHub integration using Flask.
+**🔹🧑‍💻 [Portfolio & Comment Web App (Flask + PythonAnywhere)](https://mubashira.pythonanywhere.com/)**
 
-**About This Project**
-This project is a beginner-level tutorial demonstrating how to build a Python Flask web application with database integration. The primary objective was to learn how to create a web app that includes a secure login system and allows logged-in users to post comments with timestamps and usernames.
+This is a simple portfolio and blog-style web application built with **Flask**, hosted on **PythonAnywhere**. It includes a comment feature, user login/logout functionality, and customizable content areas to showcase your work.
 
-You can explore the live app here: Mubashira on PythonAnywhere.
+**📌 Objectives:**
+  - Build and deploy a personal portfolio website.
+  - Create a simple web application with:
+  - A comment feature.
+  - User authentication (login/logout).
+  - Public and private content views.
 
-**Code Structure**
-As this was a beginner tutorial and a small-scale project, the code organization is simple and not optimized for larger applications. Most of the functionality is contained within a single main application file (flask_app.py), alongside separate HTML template files.
+🧱 Core Features Implemented:
+  - Flask app setup with routes and templates.
+  - Comment submission form.
+  - Add name and LinkedIn link to the portfolio.
+  - Integrated Flask-Login for user authentication.
+  - Show/hide content based on login status.
+  - Only logged-in users can post comments.
 
 ## 📫 Contact Me
 📧 Email: mubashirasajid@gmail.com
