@@ -13,7 +13,7 @@
     - Linux, Shell scripting
 
 ## 🌟 Projects
-**🔹 [TicketMakers : A Cloud Hosted Concert Ticketing System🎫](https://github.com/MubaSajid/TicketMakers)**  
+**🔹 [TicketMakers : A Cloud Hosted Concert Ticketing System🎫](https://mubashirabalappil.github.io/TicketMakers/)**  
 
 A cloud-hosted concert ticket booking system built using Azure, Docker, and Kubernetes with CI/CD pipelines.  
 *Role: System Architect**
