@@ -62,7 +62,7 @@
 ## 📫 Contact Me
 
 📧 **Email**: [mubashirasajid@gmail.com](mailto:mubashirasajid@gmail.com)  
-💼 **LinkedIn**: [Mubashira Balappil](https://www.linkedin.com/in/mubashira-balappil-7a65a235b/)
+💼 **LinkedIn**: [Mubashira Balappil](https://www.linkedin.com/in/mubashira-balappil-7a65a235b/)\
 **Portfolio**[https://mubashirabalappil.github.io/MubashiraBalappil/]
 
 ---
